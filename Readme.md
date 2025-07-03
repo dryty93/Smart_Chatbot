@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fd28135b-23dd-4166-bc0c-b0960b937feb)
 
 # 📋 How To Build an Insurance Appeal Letter With GPT-4
 
