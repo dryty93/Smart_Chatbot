@@ -1,0 +1,6 @@
+patient_name,insurance_company,denial_reason,procedure,provider_name,notes,appeal_deadline
+John Doe,UnitedHealthcare,Not medically necessary,MRI of lumbar spine,Dr. Susan Lee,"Patient has reported severe lower back pain for 3 months, with numbness in the left leg. Clinical notes document failed conservative treatment and neurologic symptoms.",2024-06-15
+Maria Perez,Aetna,Experimental/investigational procedure,Genetic testing for BRCA1/BRCA2,Dr. Alan Chan,Patient has a strong family history of breast cancer. Genetic testing recommended based on NCCN guidelines. Prior verbal authorization was given by insurance rep.,2024-06-18
+Michael O'Connor,Blue Cross Blue Shield,Service not covered under plan,Physical therapy (12 sessions),Dr. Emily Wallace,Therapy ordered post knee surgery. Miscommunication about plan tier. Benefits summary suggests coverage for medically necessary PT.,2024-06-10
+Aisha Grant,Cigna,Incomplete documentation,CT scan of abdomen,Dr. Marcus Riley,CT ordered due to suspected appendicitis. Initial claim omitted ER notes due to fax error. Complete records now available.,2024-06-13
+David Kim,Humana,Prior authorization not obtained,Sleep study (Polysomnography),Dr. Naomi Brooks,Patient displays classic symptoms of obstructive sleep apnea. Urgent study ordered due to occupational risks. Auth request submitted retroactively.,2024-06-17
